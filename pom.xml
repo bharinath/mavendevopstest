@@ -33,7 +33,7 @@
 				<version>2.2.1</version>
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
-					<muleVersion>3.8.2</muleVersion>
+					<muleVersion>3.9.2</muleVersion>
 					<username>bharinath</username>
 					<password>Bharinath@123</password>
 					<redeploy>true</redeploy>
